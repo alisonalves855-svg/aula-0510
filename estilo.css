@@ -1,0 +1,20 @@
+label{
+    font-size: 16px;
+    font-family: arial;
+    color: royalblue;
+}
+body{
+    background-color: deeppink;
+}
+.botaoenviar{
+    background-color: greenyellow;
+    font-size: 20px;
+}
+.minhalabel{
+    color:purple;
+}
+.botao32{
+    font-family:'Courier New', Courier, monospace;
+    background-color: aquamarine
+    color:blueviolet;
+}
